@@ -5,10 +5,10 @@ from configparser import ConfigParser
 
 
 def connectdb():
-    dbhost = "39.106.163.99"
-    dbuser = "root"
-    dbpass = "RWIy1sfYs61L"
-    dbname = "BS_TDB"
+    dbhost = "ip"
+    dbuser = "**"
+    dbpass = "**"
+    dbname = "**"
     print('连接到mysql服务器...')
     db = pymysql.connect(host=dbhost,user=dbuser,passwd=dbpass,database=dbname,charset="utf8")
     print('连接上了!')
