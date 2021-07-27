@@ -11,3 +11,5 @@ https://blog.csdn.net/Nirvana_6174/article/details/119007763
 参考我之前博客链接  下载虹软人脸识别SDK3.0以及对c++sdk的python调用代码以。加入`lib\` `arcface\` 中代码
 
 https://blog.csdn.net/Nirvana_6174/article/details/113357484
+
+首先运行`demo_init.py` 进行SDK的激活，然后再运行`main_demo.py`
