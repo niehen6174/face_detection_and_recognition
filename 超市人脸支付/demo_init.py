@@ -1,8 +1,8 @@
 
 from  arcface.engine import *
 
-APPID =b"A4JP9FeY8uscy9QZavo5ac597UU8Ce4k3iw7EWMx8Ym1"
-SDKKey = b"A6Z7Y7mtpy4iVZw5cohGzXW1LED4yc3rJeNCWekfmcs9"
+APPID =b"**"
+SDKKey = b"***"
 
 
 #激活接口,首次需联网激活
